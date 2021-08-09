@@ -33,7 +33,7 @@ char temp2;
 int tempSpot1 = 0;
 int tempSpot2 = 0;
 
-//dont understand how to map the random gen to these with no repeats
+
 char hiddenTop[] = {'+','*','&','@','-','='};
 char hiddenBottom[] = {'@','-','=','&','*','+'};
 
